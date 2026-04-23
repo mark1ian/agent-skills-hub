@@ -2,7 +2,7 @@
 name: skyvern-browser-automation
 description: "AI-powered browser automation — navigate sites, fill forms, extract structured data, log in with stored credentials, and build reusable workflows."
 risk: safe
-source: https://github.com/Skyvern-AI/skyvern/tree/main/skyvern/cli/skills/skyvern
+source: Skyvern-AI/skyvern (AGPL-3.0)
 allowed-tools: Bash(skyvern:*)
 ---
 
